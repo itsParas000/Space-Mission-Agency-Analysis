@@ -1,5 +1,8 @@
 # Space-Mission-Agency-Analysis  
 
+# Deploy Project  
+https://app.powerbi.com/groups/me/reports/a8b6280e-8b63-463a-a0df-20ecbf71ee5c/e2a88d408737db2d1ed4?experience=power-bi  
+
 ● Analyzed 4000k launch records across global space agencies  
 ● Built star schema data model for performance optimization  
 ● Created dashboards showing success rate, failure rate, and yearly trends  
