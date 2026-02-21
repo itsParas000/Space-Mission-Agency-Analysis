@@ -14,7 +14,5 @@ https://app.powerbi.com/groups/me/reports/a8b6280e-8b63-463a-a0df-20ecbf71ee5c/e
 # Dashboard  
 <img width="1472" height="830" alt="image" src="https://github.com/user-attachments/assets/ba554551-f6a9-4117-9b4b-ec081062eeea" />
 
-# background Image 👇  
-https://www.freepik.com/free-ai-image/digital-art-moon-wallpaper_77361121.htm  
 
 
